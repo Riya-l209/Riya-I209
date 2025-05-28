@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-I209&show_icons=true&theme=tokyonight" alt="Riya-I209" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-i209&show_icons=true&theme=tokyonight" alt="riya-i209" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-I209&theme=tokyonight" alt="Riya-I209" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-i209&theme=tokyonight" alt="riya-i209" />
 </p>
 
 ---
